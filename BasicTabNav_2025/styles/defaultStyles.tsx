@@ -11,6 +11,13 @@ const defaultStyles = StyleSheet.create({
   bodyText: {
     fontSize: 20,
     color: colors.textondark,
+    
+  },
+  buttons: {
+      borderRadius: 100,
+      justifyContent: "center",
+      alignItems: "center",
+      backgroundColor: colors.primary
   },
 });
 
